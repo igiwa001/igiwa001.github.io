@@ -5,7 +5,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Depends: mobilesubstrate
 Filename: debs//themes/com.igiwa001.foldericons.deb
-Size: 280
 MD5sum: 2ad374434d5dcd60863a6a4246b57b78
 SHA1: d1326c220b17f3d14daf2e38ef8ea7befd504479
 SHA256: dbd336f9c0a522ac335304bcefc10120d5e3ca9505f365b23e3ba3e0465e33da
