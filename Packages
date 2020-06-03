@@ -1,15 +1,15 @@
-Package: 
-Section: 
-Maintainer: 
+Package: com.igiwa001.foldericons
+Section: Themes
+Maintainer: igiwa001
 Architecture: iphoneos-arm
-Version: 
-Depends: mobilesubstrate
-Filename: debs//
-Size: 
+Version: 1.0
+Depends: snowboard
+Filename: debs//themes/com.igiwa001.foldericons.deb
+Size: 281
 MD5sum: 
 SHA1: 
 SHA256: 
-Description: 
-Name: 
-Author: name <email@email.com>
+Description: Custom icons for folders.
+Name: FolderIcons
+Author: igiwa001
 
