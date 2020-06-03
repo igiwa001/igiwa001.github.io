@@ -3,7 +3,7 @@ Section: Themes
 Maintainer: igiwa001
 Architecture: iphoneos-arm
 Version: 1.0
-Depends: snowboard
+Depends: SnowBoard
 Filename: debs//themes/com.igiwa001.foldericons.deb
 Size: 281
 MD5sum: 
