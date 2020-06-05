@@ -14,3 +14,18 @@ Description: Custom icons for folders.
 Name: FolderIcons
 Author: igiwa001
 
+Package: com.igiwa001.foldericonsround
+Section: Themes
+Maintainer: igiwa001
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: debs//themes/com.igiwa001.foldericonsround.deb
+Filesize: 445234
+MD5sum: 636621a25672ea4fb874193f4965d4ef
+SHA1: e7c66ff3c5c21421d2a5d7e9426df31785903df5
+SHA256: f35c8d58b2b2cb43a03f1efce5a968ad21a80df21931dc80498005e639f8c7c9
+SHA512: 9074e9cc3694896e8ec1ffb179d291bc639d739d9d81a6ae8b038b79a375483cafd15c52386318bf4692e76483440453f1b473fb3425356120fa6e82c054cac5
+Description: Custom icons for folders. Round.
+Name: FolderIcons - Round
+Author: igiwa001
